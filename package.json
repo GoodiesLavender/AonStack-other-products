@@ -1,0 +1,13 @@
+{
+  "name": "aon-technology-solutions",
+  "private": true,
+  "type": "module",
+  "description": "Standalone Technology Solutions lead-generation page for Aon Technology Solutions LLC, with a Vercel Function that emails inquiries.",
+  "scripts": {
+    "local": "node scripts/dev-server.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "engines": {
+    "node": ">=18.17"
+  }
+}

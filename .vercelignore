@@ -1,0 +1,5 @@
+# Local-only files — not needed on Vercel
+tests/
+scripts/
+.outbox/
+.env

@@ -1,0 +1,5 @@
+.env
+.env.local
+.outbox/
+node_modules/
+.vercel/
